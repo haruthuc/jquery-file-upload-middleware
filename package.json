@@ -1,7 +1,7 @@
 {
-  "name": "jquery-file-upload-middleware",
-  "author": "Aleksandr Guidrevitch <aguidrevitch@gmail.com>",
-  "description": "jQuery-File-Upload Express.js Middleware",
+  "name": "jquery-file-upload-middleware-fix",
+  "author": "Aleksandr Guidrevitch <aguidrevitch@gmail.com> - fix issue by haruthuc@gmail.com ",
+  "description": "jQuery-File-Upload-Fix Express.js Middleware",
   "keywords": [
     "jquery",
     "upload",
@@ -29,6 +29,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "_id": "jquery-file-upload-middleware@0.1.7",
+  "_id": "jquery-file-upload-middleware-fix@0.1.1",
   "license": "MIT"
 }
